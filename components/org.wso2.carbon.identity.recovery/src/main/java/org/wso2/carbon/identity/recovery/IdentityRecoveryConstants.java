@@ -274,6 +274,7 @@ public class IdentityRecoveryConstants {
         ERROR_CODE_LOCK_USER_USER("20020", "Error while lock user"),
         ERROR_CODE_DISABLE_SELF_SIGN_UP("20021", "Self sign up feature is disabled"),
         ERROR_CODE_LOCK_USER_ACCOUNT("20022", "Error while lock user account"),
+        ERROR_CODE_ISSUE_IN_LOADING_SIGNUP_CONFIGS("20022", "Error loading signup configs"),
         ERROR_CODE_UNLOCK_USER_USER("20023", "Error while unlock user"),
         ERROR_CODE_OLD_CODE_NOT_FOUND("20024", "Old confirmation code not found"),
         ERROR_CODE_FAILED_TO_LOAD_REALM_SERVICE("20025", "Failed to retrieve user realm from tenant id: '%s'"),
