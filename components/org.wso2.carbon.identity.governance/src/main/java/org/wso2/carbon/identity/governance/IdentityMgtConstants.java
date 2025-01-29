@@ -60,7 +60,8 @@ public class IdentityMgtConstants {
         PENDING_ASK_PASSWORD,
         IDLE_ACCOUNT,
         ADMIN_INITIATED,
-        MAX_ATTEMPTS_EXCEEDED
+        MAX_ATTEMPTS_EXCEEDED,
+        DISABLED
     }
 
     public enum ErrorMessages {
